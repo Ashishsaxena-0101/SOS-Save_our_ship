@@ -1,2 +1,4 @@
 # SOS-Save_our_ship
-This is the source code for the android app called SOS i.e save our ship. It aids to any emergency situation by providing the numbers and nearby services available on just a click. this project has been done under GDSC LNCTS
+This is the source code for the android app called SOS i.e save our ship. 
+The Application is helpful in emergency situations such as a medical emergency or any other emergency that needs to be taken care of urgently .It aids to any emergency situation by providing the numbers of the related authority along with providing the option of finding nearby services available on just one click. Also we have added the on spot call option , so that someone somewhere stuck doesn't have to bother about changing apps for searching and contacting the help.This app does not require any type of login or sign in or any other detail of the user, thus being user friendly as well as situation friendly. 
+This project has been designed under the mentorship of GDSC LNCTS , thus we would like to thank Khushi Trivedi , Siddharth Khuntwal , Vansh Todon and Maroof Ansari. 
